@@ -29,11 +29,5 @@ This web application provides an interactive interface for uploading datasets, t
 
 - **Visualization**: View a heatmap of the confusion matrix and other metrics to evaluate model performance.
 
-## Installation
+## Still working on the documentation. Check back soon!
 
-To run this application locally, follow these steps:
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/ml-web-app.git
-cd ml-web-app
