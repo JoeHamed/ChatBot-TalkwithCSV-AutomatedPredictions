@@ -1,4 +1,4 @@
-# Machine Learning Model Prediction Web App with Chatbot Integration
+# Web App with Chatbot Integration and Machine Learning Model Prediction 
 
 This web application provides an interactive interface for uploading datasets, training machine learning models, and leveraging natural language processing through a chatbot powered by a large language model (LLM). Users can classify datasets, fine-tune model hyperparameters, and engage in conversation with the chatbot for assistance.
 
