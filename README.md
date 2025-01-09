@@ -33,11 +33,11 @@ This web application provides an interactive interface for uploading datasets, t
 ## Data Flow Diagrams
 
 ### Overall Web App Data Pipeline Flow
-![Overall_Dataflow_Diagram](https://github.com/user-attachments/assets/d7c7aebe-3008-4c97-beda-a38eed8be29a)
+<img src="https://github.com/user-attachments/assets/d7c7aebe-3008-4c97-beda-a38eed8be29a" alt="Overall Web App Diagram" width="500">
 
 
 ### ChatBot 1st Mode [Single Prediction] Data Pipeline Flow
-![SinglePrediction_Diagram](https://github.com/user-attachments/assets/b1186337-bca3-41f9-9387-25a57fdfba36)
+<img src="https://github.com/user-attachments/assets/b1186337-bca3-41f9-9387-25a57fdfba36" alt="Single Prediction Diagram" width="500">
 
 
 ### ChatBot 2nd Mode [Talk to CSV] Data Pipeline Flow
@@ -45,7 +45,7 @@ This web application provides an interactive interface for uploading datasets, t
 
 
 ### Manual Prediction Data Pipeline Flow
-![Manual_Predictions_Diagram](https://github.com/user-attachments/assets/b3a7a1e8-d8cd-4910-b0e5-4f99ab528647)
+<img src="https://github.com/user-attachments/assets/b3a7a1e8-d8cd-4910-b0e5-4f99ab528647" alt="Manual Prediction Diagram" width="500">
 
 
 ***Still working on the documentation. Check back soon!***
