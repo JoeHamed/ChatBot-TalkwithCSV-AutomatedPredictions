@@ -30,5 +30,16 @@ This web application provides an interactive interface for uploading datasets, t
 
 - **Visualization**: View a heatmap of the confusion matrix and other metrics to evaluate model performance.
 
+## Data Flow Diagrams
+
+### Overall Web App Data Pipeline Flow
+
+### ChatBot 1st Mode [Single Prediction] Data Pipeline Flow
+
+### ChatBot 2nd Mode [Talk to CSV] Data Pipeline Flow
+
+### Manual Prediction Data Pipeline Flow
+
 ***Still working on the documentation. Check back soon!***
+
 
