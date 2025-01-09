@@ -30,29 +30,26 @@ This web application provides an interactive interface for uploading datasets, t
 
 - **Visualization**: View a heatmap of the confusion matrix and other metrics to evaluate model performance.
 
-## Data Flow Diagrams
-
-### Overall Web App Data Pipeline Flow
+# Data Flow Diagrams
 
 <p align="center">
-  [Overall Web App Data Pipeline Flow]
+  <b>Overall Web App Data Pipeline Flow</b>
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/d7c7aebe-3008-4c97-beda-a38eed8be29a" alt="Overall Web App Diagram" width="900" height="800">
 </p>
 
-
-### ChatBot Data Pipeline Flow
-
+<p align="center">
+  <b>ChatBot 1st Mode [Single Prediction]</b> | <b>ChatBot 2nd Mode [Talk to CSV]</b>
+</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b1186337-bca3-41f9-9387-25a57fdfba36" alt="Single Prediction Diagram" width="300" height="600">
   <img src="https://github.com/user-attachments/assets/d3bb7859-f67b-4309-9e8c-dd0c80d4b04c" alt="Talktocsv Diagram" width="300" height="600">
 </p>
+
 <p align="center">
-  <b>ChatBot 1st Mode [Single Prediction]</b> | <b>ChatBot 2nd Mode [Talk to CSV]</b>
+  <b>Manual Prediction Data Pipeline Flow</b>
 </p>
-
-
-
-### Manual Prediction Data Pipeline Flow
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b3a7a1e8-d8cd-4910-b0e5-4f99ab528647" alt="Manual Prediction Diagram" width="400" height="660">
 </p>
