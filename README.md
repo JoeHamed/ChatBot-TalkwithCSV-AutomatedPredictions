@@ -43,7 +43,7 @@ This web application provides an interactive interface for uploading datasets, t
   <b>ChatBot 1st Mode [Single Prediction]</b> - <b>ChatBot 2nd Mode [Talk to CSV]</b>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b1186337-bca3-41f9-9387-25a57fdfba36" alt="Single Prediction Diagram" width="340" height="600">
+  <img src="https://github.com/user-attachments/assets/b1186337-bca3-41f9-9387-25a57fdfba36" alt="Single Prediction Diagram" width="335" height="600">
   <img src="https://github.com/user-attachments/assets/d3bb7859-f67b-4309-9e8c-dd0c80d4b04c" alt="Talktocsv Diagram" width="310" height="600">
 </p>
 
