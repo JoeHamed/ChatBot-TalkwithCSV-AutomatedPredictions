@@ -35,7 +35,7 @@ This web application provides an interactive interface for uploading datasets, t
 ### Overall Web App Data Pipeline Flow
 
 <p align="center">
-  Overall Web App Data Pipeline Flow
+  ### Overall Web App Data Pipeline Flow
   <img src="https://github.com/user-attachments/assets/d7c7aebe-3008-4c97-beda-a38eed8be29a" alt="Overall Web App Diagram" width="900" height="800">
 </p>
 
