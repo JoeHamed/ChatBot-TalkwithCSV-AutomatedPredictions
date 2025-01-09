@@ -43,9 +43,11 @@ This web application provides an interactive interface for uploading datasets, t
 ### ChatBot Data Pipeline Flow
 
 <p align="center">
-  ChatBot 1st Mode [Single Prediction]</b> | <b>ChatBot 2nd Mode [Talk to CSV]
   <img src="https://github.com/user-attachments/assets/b1186337-bca3-41f9-9387-25a57fdfba36" alt="Single Prediction Diagram" width="300" height="600">
   <img src="https://github.com/user-attachments/assets/d3bb7859-f67b-4309-9e8c-dd0c80d4b04c" alt="Talktocsv Diagram" width="300" height="600">
+</p>
+<p align="center">
+  <b>ChatBot 1st Mode [Single Prediction]</b> | <b>ChatBot 2nd Mode [Talk to CSV]</b>
 </p>
 
 
