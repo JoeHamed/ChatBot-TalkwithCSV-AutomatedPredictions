@@ -47,12 +47,17 @@ This web application provides an interactive interface for uploading datasets, t
 ### Manual Prediction Data Pipeline Flow
 <img src="https://github.com/user-attachments/assets/b3a7a1e8-d8cd-4910-b0e5-4f99ab528647" alt="Manual Prediction Diagram" width="500">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b1186337-bca3-41f9-9387-25a57fdfba36" alt="Single Prediction Diagram" width="500" height="900">
-  ChatBot 1st Mode [Single Prediction] Data Pipeline Flow
-  <img src="https://github.com/user-attachments/assets/d3bb7859-f67b-4309-9e8c-dd0c80d4b04c" alt="Talktocsv Diagram" width="500" height="900">
-  ChatBot 2nd Mode [Talk to CSV] Data Pipeline Flow
-</p>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
+  <figure style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/b1186337-bca3-41f9-9387-25a57fdfba36" alt="Single Prediction Diagram" width="300">
+    <figcaption>ChatBot 1st Mode [Single Prediction] Data Pipeline Flow</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/d3bb7859-f67b-4309-9e8c-dd0c80d4b04c" alt="Talktocsv Diagram" width="300">
+    <figcaption>ChatBot 2nd Mode [Talk to CSV] Data Pipeline Flow</figcaption>
+  </figure>
+</div>
+
 
 
 ***Still working on the documentation. Check back soon!***
