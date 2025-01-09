@@ -50,7 +50,7 @@ This web application provides an interactive interface for uploading datasets, t
 
 ### Manual Prediction Data Pipeline Flow
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b3a7a1e8-d8cd-4910-b0e5-4f99ab528647" alt="Manual Prediction Diagram" width="350" height="550">
+  <img src="https://github.com/user-attachments/assets/b3a7a1e8-d8cd-4910-b0e5-4f99ab528647" alt="Manual Prediction Diagram" width="400" height="660">
 </p>
 
 
