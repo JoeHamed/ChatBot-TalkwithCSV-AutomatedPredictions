@@ -25,7 +25,7 @@ This web application provides an interactive interface for uploading datasets, t
   - **Classification Report**
 
 - **Chatbot Integration**: 
-  - Users can interact with the **Chatbot** to ask questions or seek help. The chatbot uses an LLM (e.g., OpenAI GPT or Hugging Face models) to answer queries related to the machine learning models, data preprocessing, or general questions.
+  - Users can interact with the **Chatbot** to ask questions or seek help. The chatbot uses an LLM (Hugging Face models) to answer queries related to the machine learning models, data preprocessing, or general questions.
   - **Chain Logic**: The chatbot leverages a chain of logic to fetch and respond based on various queries and integrate with the rest of the app.
 
 - **Visualization**: View a heatmap of the confusion matrix and other metrics to evaluate model performance.
