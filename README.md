@@ -31,6 +31,7 @@ This web application provides an interactive interface for uploading datasets, t
 - **Visualization**: View a heatmap of the confusion matrix and other metrics to evaluate model performance.
 
 ## Structure
+```bash
 .
 ├── model.keras
 ├── model.pkl
@@ -73,7 +74,7 @@ This web application provides an interactive interface for uploading datasets, t
 │   ├── db_faiss
 │       ├── index.faiss
 │       ├── index.pkl
-
+```
 
 
 # Data Flow Diagrams
