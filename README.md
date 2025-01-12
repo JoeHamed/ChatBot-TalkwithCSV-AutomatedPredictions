@@ -30,6 +30,63 @@ This web application provides an interactive interface for uploading datasets, t
 
 - **Visualization**: View a heatmap of the confusion matrix and other metrics to evaluate model performance.
 
+## Structure
+.
+¦   model.keras
+¦   model.pkl
+¦   requirements.txt
+¦   Showcase.mp4
+¦   treefile.txt
+¦   
++---Back-end
+¦       ChurnPreProcessing.py
+¦       main.py
+¦       MLModels.py
+¦       
++---data
+¦       WA_Fn-UseC_-Telco-Customer-Churn.csv
+¦       
++---Diagrams
+¦       Manual_Predictions_Diagram.png
+¦       Overall_Dataflow_Diagram.png
+¦       SinglePrediction_Diagram.png
+¦       Talktocsv_Diagram.png
+¦       
++---Exploratory Data Analysis
+¦       CatBoost Model Evaluation.pdf
+¦       ChurnUseCase EDA.pdf
+¦       ChurnUseCaseEDA.ipynb
+¦       Initial thoughts and Models Experimenting.pdf
+¦       
++---Final Model
+¦       ChurnUseCase_TensorflowANN.ipynb
+¦       
++---Front-end
+¦   ¦   app.py
+¦   ¦   
+¦   +---.streamlit
+¦   ¦       config.toml
+¦   ¦       
+¦   +---assets
+¦   ¦       logo.png
+¦   ¦       
+¦   +---vectorstore
+¦   ¦   +---db_faiss
+¦   ¦           index.faiss
+¦   ¦           index.pkl
+¦   ¦           
+¦   +---views
+¦           chatbot.py
+¦           manual_prediction.py
+¦           observe_data.py
+¦           
++---vectorstore
+    +---db_faiss
+            index.faiss
+            index.pkl
+            
+
+
 # Data Flow Diagrams
 
 <p align="center">
